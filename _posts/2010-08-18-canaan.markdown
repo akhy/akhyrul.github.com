@@ -1,0 +1,64 @@
+---
+comments: true
+date: 2010-08-18 00:47:27
+layout: post
+slug: canaan
+title: Canaan
+wordpress_id: 286
+categories:
+- Computer and Internet
+tags:
+- games
+- review
+---
+
+[![](http://ephemeralucid.files.wordpress.com/2010/08/canaan-family.jpg)](http://ephemeralucid.files.wordpress.com/2010/08/canaan-family.jpg)
+
+
+Canaan Online. Game online bikinan China (atau Korea ya? yang jelas bukan Jepang) yang masa Closed Beta-nya di Indonesia rilis bertepatan dengan hari kemerdekaan Republik Indonesia 17 Agustus 2010 saya sudah tau kabarnya sejak sekitar dua bulanan sebelumnya. Bermula dari tret Kaskus yang membahas game ini sebagai browser-game _MMORPG_ (Massive Multiplayer Online RPG) baru yang berbasis flash, saya langsung tertarik dan melesat untuk memainkannya di server EU. Keren! Awalnya saya kira gamenya bakal seperti Mafia Wars ato game-game FB klonengannya yang ngebosenin gitu, atau kayak game-game RPG online lainnya yang full berbasis teks. Eh, saya bukan ngomongin [IndoHogwarts](http://indohogwarts.co.nr) kok ;) Ternyata gamenya benar-benar bergaya MMORPG pada umumnya! Dengan tampilan 2D isometris cantik dan sistem battle _timed turn-based _(lupa deh istilahnya apaan) bikin saya jatuh hati pada pandangan pertama :x
+
+<!-- more -->
+
+
+> Canaan Online takes place in a fantasy manga-style universe. Its inhabitants, fleeing their war-torn world through a magic gate, arrive in a savage new world where they will need to fight to rebuild their civilization.
+
+Utilising **Flash technology**, it brings a full-blown MMORPG experience to everyone through their favorite browser. Canaan Online features rich content and strategic turn-based combat and wide variety of dungeons and quests. It also supports massive guild wars and PvP multiplayer modes, an extensive pet system, a housing system and much more.
+
+
+Sejak itu saya jadi keranjingan main game ini. Meskipun sangat sederhana dibanding game online sekarang yang makin menggila grafisnya, justru itulah yang menjadi poin utama saya demen main game ini. Kenapa aja sih?
+
+
+
+	
+  1. Gratis
+
+	
+  2. Flash based. Cuman butuh browser dan space harddisk kecil untuk memainkannya. Setidaknya buat cache browser dan squid proxy yang saya pasang :P
+
+	
+  3. Harddisk saya penuh, dan ini game online yang cocok untuk kondisi demikian :))
+
+	
+  4. Grafisnya yang bergaya anime udah lumayan cantik untuk ukuran sebuah browser-game
+
+	
+  5. Pet-system-nya unik. Bisa make tiga pet sekaligus. Saya jarang serius main game-game online lainnya sebelum Canaan ini, jadi gak bisa bandingin :D
+
+	
+  6. Santai dan tidak butuh perhatian terus menerus. Bisa disambil browsing sana-sini sambil terus hunting. Caranya? Ini kan sistem battlenya turn-based dan gak realtime. Jadi ketika nge-party, jalan kesana kemari dan ngeklik monster yang ingin dibunuh adalah tugas ketua party, yang lain bakal jalan ngikutin dan tinggal auto attack. Dengan catatan jangan sampe kehabisan pot aja. Jadi cari aja party terus suruh orang lain jadi ketua, lalu bilang afk. Beres dah, disupirin kemana-mana asal jangan dibawa mati aja (rofl) .
+
+
+[![Canaan Girl](http://octopress.dev/uploads/canaan-girl-300x255.jpg)](http://octopress.dev/uploads/canaan-girl.jpg)Entah kenapa saya merasa lebih nyaman bermain sama orang-orang asing ketimbang ketemu anak Indonesia. Bahkan di server luar saya lebih memilih gabung guild umum daripada guild yang dibikin anak-anak Indo yang juga lagi nyicip Canaan sebelum rilis di Indonesia. Beberapa alasan saya antara lain karena orang asing kalau ngobrol lebih sopan meskipun English-nya kadang amburadul. Lebih nyaman daripada harus sering melihat kata-kata seperti "ah, cupu lo", "dasar cacaddd!!!", dan macam-macam istilah gamer indonesia lainnya yang saya merasa tidak nyaman mendengarnya. Maklumlah kalo dari satu daerah asal, berasa seperti sodara sendiri jadinya ya sok kenal dsb. Ah, semuanya tergantung selera kok ;)
+
+Tertarik untuk mencoba?
+
+
+
+* * *
+
+
+
+
+> Server EU: [http://en.canaan.gpotato.eu](http://en.canaan.gpotato.eu)
+
+Server ID: [http://canaan.web.id](http://canaan.web.id)

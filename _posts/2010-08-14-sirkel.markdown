@@ -1,0 +1,37 @@
+---
+comments: false
+date: 2010-08-14 08:04:13
+layout: post
+slug: sirkel
+title: SIRKEL
+wordpress_id: 221
+categories:
+- Chirps
+tags:
+- academic
+- life
+---
+
+[![Sirkel - Sistem Informasi dan Rekayasa Perangkat Lunak](http://octopress.dev/uploads/sirkel-e1281878665991.jpg)](http://octopress.dev/uploads/sirkel-e1281878665991.jpg)
+
+
+
+* * *
+
+Mari kita mulai dari entah berapa bulan yang lalu ketika pengumuman rekrutmen bersama asisten laboratorium terpadu Informatika sampai di mata dan telinga saya. Sebut saja beberapa minggu sebelum UAS berlangsung. <!-- more -->Oke akhirnya kesempatan kedua datang, saya tidak mau kehilangan kesempatan yang sama untuk kedua kalinya. Rekrutmen tahun ini memang agak beda karena dilaksanakan serempak dan terpadu untuk semua lab yang ditangani langsung oleh jurusan. Pelaksanaannya juga jauh-jauh hari sebelum liburan, jadi kemungkinan kejadian tahun lalu saya keburu beli tiket pulkam terulang adalah mendekati nol.
+
+Satu demi satu rangkaian tes dari tes akademik, psikologi, interview, proyek penelitian, sampai _micro-teaching_ saya jalani dengan penuh harapan agar bisa lolos dan selangkah maju memenuhi keinginan besar abah-mama punya anak dosen. Ya, berharap dan berusaha untuk mencapai harapan tidak dosa kan ya ;)
+
+Selang beberapa minggu setelah rangkaian tes berakhir. Ketika saya dan beberapa teman sedang sibuk di lab atas permintaan mantan dekan (eh, vakasinya mana ya) muncul isu sms sehubungan dengan rekrutmen tersebut. Beberapa teman mengaku mendapat SMS dari jurusan yang meminta mereka untuk datang ke dekanat terkait rekrutmen asisten. Ya jelas mereka nanya kami apa dapat SMS yang sama apa nggak. Lho, saya dan teman-teman yang lagi di ruangan itu mendadak jadi rajin ngecek SMS. Sampai malam tidak ada satupun dari kami yang dapat pesan singkat itu. Padahal menurut oknum yang nerima SMS, mereka disuruh ketemunya besok. Yah, gugurlah sudah harapan kami. (okok)
+
+Jujur waktu itu saya sudah kepikiran buat fokus kerja di Gardu Studio sambil mroyek dimana-mana kalo ada :P . Emak juga udah tau dan merestui kok. Tapi kenyataan berkata lain. Beberapa hari kemudian ketika lagi asyik tidur main game di kantor tiba-tiba [Arkham](http://blognyaarkham.blogspot.com) nelpon dan tanpa ba-bi-bu-be-bo nyuruh buka website jurusan.
+
+Ada apa gerangan? Eh eh eh, setelah dibuka ternyata eh ternyata.... namaku terpampang sebagai salah satu mahasiswa Informatika yang akan dibebani amanah baru sebagai asisten laboratorium [SIRKEL (Sistem Informasi dan Rekayasa Perangkat Lunak)](http://sirkel.informatics.uii.ac.id) . Menyusul para sesepuh macam [Om Muzid](http://ommuzid.com), [Mas Salhazan](http://salhazan.com), [Tuan Muda](http://blog.tuanmuda.com), dan [Mas Hari](http://harisetiaji.wordpress.com). Laboratorium dengan logo lingkaran merah ini (lingkaran -> circle -> sirkel) memang menjadi pilihan pertama saya dengan bobot 70:30 dengan pilihan kedua. 8-|
+
+Omg, alhamdulillah. Hati saya sudah gak keruan rasanya. Kok bisa? Trus SMS tempo hari itu maksudnya apaan?
+
+Setelah saya teliti lagi, ternyata teman-teman yang kemaren di satu ruangan gak dapat SMS malah lulus semua kok. Lebih membanggakan lagi teman satu kelompokku pas presentasi proyek penelitian tidak ada satupun yang gugur alias lolos (terima kasih atas kerjasamanya ya :) ).  Penelitian lebih jauh menunjukkan bahwa SMS kemaren itu ditujukan bagi calon yang qualified di dua lab yang dipilihnya, makanya ditanya lagi lebih mantap dimana. Gubraks... salut buat mereka :D
+
+At last, akhirnya tanggung jawabku nambah satu lagi, dan ini merupakan yang terberat dan butuh dedikasi penuh. Semoga saya bisa menjalaninya dengan penuh semangat dan pengabdian. Meski di luar itu sebenarnya saya juga punya kesibukan lain seperti proyekan Gardu Studio dan sisa setahun tanggung jawab saya sebagai Koor Pubdekdok (lagi-lagi) WEB Informatika.
+
+P.S. btw gimana kabar saya punya KP ya :(

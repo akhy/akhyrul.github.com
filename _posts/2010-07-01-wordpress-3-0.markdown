@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2010-07-01 14:15:12
+layout: post
+slug: wordpress-3-0
+title: WordPress 3.0
+wordpress_id: 176
+categories:
+- Computer and Internet
+tags:
+- blog
+- wordpress
+---
+
+[![](http://octopress.dev/uploads/wordpress-3.0.jpg)](http://octopress.dev/uploads/wordpress-3.0.jpg)Kedengaran sangat _wah_? Karena ini major version terbaru, eh? Setelah lama di versi 2.x akhirnya blogging platform favoritku ini sampai versi 3.0 juga. Kayaknya sih sudah lama saya baca beritanya, tapi baru akhir-akhir ini ada waktu buat upgrade versi yang di blog. Apa aja sih kelebihan si nomor _telu_ ini? Maaf kalo ada beberapa istilah yang terlalu teknis. Maklum, dari sudut pandang orang teknik :P
+
+<!-- more -->
+
+
+### Custom Menu
+
+
+Jadi untuk navigasi menu yang biasanya di header bisa dikustomisasi dengan preset yang bisa kita atur di dashboard. Tentunya bila theme yang kita gunakan mendukungnya.
+
+
+### Bulk Update
+
+
+Di menu utama dashboard sekarang ada menu updates yang bisa melakukan update terhadap semua plugin dan theme yang kita miliki dalam satu kali klik. (disclaimer: saya belum mencobanya secara pribadi, jangan salahkan saya bila ternyata anda butuh berkali-kali klik, entah karena koneksi siput dan lain sebagainya) (ninja)
+
+
+> Oh ya, selama proses update blog kita otomatis memasuki mode maintenance dan tidak bisa dibuka dari luar, demi menghindari terjadinya bug akibat instalasi yang tidak beres. Kalau anda _stuck_ di sini (gak bisa balik dari maintenance mode), buka document root hosting anda dengan FTP client, lalu hapus file ".maintenance" di sana. Biasanya sebelahan sama file ".htaccess" kok :D
+
+
+
+
+### Bikin banyak blog WP dalam satu instalasi
+
+
+WP Multiuser menjadi satu dengan WP reguler yang biasa. Jadi dengan satu instalasi kita bisa bikin banyak blog (multi-site) di banyak _subdomain_ milik kita. Jujur inilah fitur yang paling bikin saya tertarik. Sayangnya kalau bukan _fresh-install_ dibutuhkan konfigurasi manual untuk mengaktifkannya. Sudah saya coba dan masih ada kendala, sepertinya masalah di dukungan webhosting ya?
+
+
+### Pengaturan user administrator sejak instalasi
+
+
+Demi keamanan, sekarang saat instalasi kita bisa ngatur sendiri username pertama yang akan menjadi administrator, dan passwordnya bisa kita atur juga. Bagi yang sering nginstall WP tentu ingat gimana nyebelinnya dikasih username "admin" dan password acak yang harus dikopas terus dimasukin buat ngeganti paassword itu segera setelah instalasi. Kalo keburu lupa ya terpaksa _re-install_ dong  :-" .
+
+
+### Theme Default Baru: Twentyten
+
+
+Sudah bosan dan mual-mual liat theme Kubrick yang selalu muncul sebagai default di awal instalasi wordpress? ;)) Saya juga. Tema baru twentyten dipersembahkan sebagai pengganti Kubrick yang udah terlalu uzur itu, sekalian jadi showcase buat fitur-fitur baru Wordpress 3.0. Karena twentyten mendukung semua fitur baru, termasuk custom header, custom menu, dan custom background image. Fyi, theme blog saya yang sekarang ini (header: Roy Mustang x Riza Hawkeye) merupakan versi rombakan dari Twentyten secara hardcode. Maklum, masih bego bikin child theme dari framework (blush) .
+
+That's all. Sisanya saya lupa (hassle) Lebih lengkap silakan liat di [codex wordpress](http://codex.wordpress.org/Version_3.0), semoga terbantu :)

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Your Name" />
+    <title>Menginstall Office 2007 di Lucid dengan PlayOnLinux</title>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Menginstall Office 2007 di Lucid dengan PlayOnLinux</a></h1>
+    </header>
+    <section>
+      <div class="content">
+  <div id="post">
+    <h1></h1>
+    <p>Salah satu aplikasi non-linux-available yang sangat saya butuhkan untuk keperluan sehari-hari adalah Microsoft Office, terutama Word. Okelah di Linux ada OpenOffice, LibreOffice, AbiWord, dan sebagainya, tapi gimana dengan konsistensi tampilan? Tidak jarang format docx milik saya jadi berantakan ketika dibuka di OpenOffice, dan sering kali saya bekerja tidak sendiri. Misalnya aja ngerjain laporan yang kerjanya keroyokan atau perlu dioper ke rekan lain untuk direvisi. Karena saya rada perfeksionis, konsistensi penyajian data adalah sangat penting. Ngomong-ngomong soal konsistensi, kayaknya saya perlu belajar bikin paper pake LaTeX :D</p>
+
+<!-- more -->
+
+
+<p>Karena pemakaian komputer saya sehari-hari berpusat di OS Linux dengan distro Ubuntu Lucid Lynx, berpindah ke OS tetangga hanya untuk sedikit merivisi laporan atau mengedit file .psd adalah sesuatu yang sangat merepotkan, terlebih dengan maha-lemot-nya Windows Vista saya yang kebetulan original itu.</p>
+
+<blockquote><p>PlayOnLinux is a piece of sofware which allows you <strong>to easily install and use</strong> numerous <strong>games and apps designed to run with Microsoft® Windows®.</strong></p>
+
+<p>PlayOnLinux is a front-end for wine. It permits you to install Windows Games and softwares on Linux.</p></blockquote>
+
+<p><img src="http://www.playonlinux.com/images/logos/logo48.png" alt="PlayOnLinux" /></p>
+
+<p>Saya sudah mencoba menginstall Office 2007 menggunakan wine tapi selalu gagal di proses instalasi. Ternyata dengan PlayOnLinux masalah tersebut dapat diatasi. Mungkin ada ketidakcocokan dengan versi wine yang saya pakai, dan menurut pengamatan saya, PlayOnLinux mengatasi masalah tersebut dengan berperan sebagai <em>front-end version &amp; prefix manager</em> bagi wine. Jadi ketika saya mencoba menginstall Office 2007, PlayOnLinux akan otomatis memilihkan versi wine yang sesuai beserta library-library yang dibutuhkan.</p>
+
+<p>Berikut langkah-langkahnya:</p>
+
+<h2>1. Install PlayOnLinux</h2>
+
+<p>Saya sangat merekomendasikan anda untuk menginstall PlayOnLinux versi terbaru.</p>
+
+<p>[code lang="bash"]
+wget -q "http://deb.playonlinux.com/public.gpg" -O - | sudo apt-key add -
+sudo wget http://deb.playonlinux.com/playonlinux_maverick.list -O /etc/apt/sources.list.d/playonlinux.list
+sudo apt-get update
+sudo apt-get install playonlinux</p>
+
+<p>[/code]</p>
+
+<h2>2. Install Office 2007</h2>
+
+<p>Buka PlayOnLinux dan klik 'Install'. Klik 'Refresh' bila diperlukan (list software belum diload)</p>
+
+<p>[caption id="attachment_492" align="aligncenter" width="300"]<a href="http://octopress.dev/uploads/playonlinux-1.png"><img src="http://octopress.dev/uploads/playonlinux-1-300x233.png" alt="Pilih Microsoft Office 2007" /></a> Pilih Microsoft Office 2007[/caption]</p>
+
+<p>Cari Microsoft Office 2007 di menu Office dan klik Apply. Bisa dilihat kalau Access, Groove, dan Outlook tidak bisa jalan di atas Wine. Ketika anda mengklik Apply mungkin PlayOnLinux akan mendownload dulu versi Wine yang bisa digunakan untuk menjalankan Office 2007 dan membuatkan sebuah <em>wine prefix</em> baru untuk itu.</p>
+
+<p>Masukkan path tempat installer Office 2007 berada ketika diminta, dan lanjutkan terus hingga Installer Office 2007 dijalankan. Jangan lupa untuk tidak menginstall Microsoft Access, Groove, dan Outlook karena akan sia-sia :D</p>
+
+<p><img src="http://octopress.dev/uploads/ms-2007-300x156.png" alt="" /></p>
+
+<p>Di akhir instalasi mungkin PlayOnLinux akan mendownload lagi beberapa library yang dibutuhkan. Akhirnya paket Office 2007 anda siap dijalankan dari gnome menu atau shortcut di desktop. Sedikit tips, anda perlu menambahkan permission +x pada icon di desktop yang dibuat PlayOnLinux agar bisa dijalankan.</p>
+
+<p>[caption id="attachment_503" align="aligncenter" width="286"]<a href="http://octopress.dev/uploads/word-on-lucid.jpg"><img src="http://octopress.dev/uploads/word-on-lucid-286x300.jpg" alt="Microsoft Word on My Lucid Laptop" /></a> Microsoft Word on My Lucid Laptop[/caption]</p>
+
+<blockquote><p>catatan: cara ini tidak hanya untuk Office, namun juga untuk aplikasi-aplikasi lain yang disupport oleh PlayOnLinux :)</p></blockquote>
+
+  </div>
+</div>
+
+    </section>
+  </body>
+</html>
