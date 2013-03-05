@@ -26,7 +26,10 @@
                <img src="http://www.gravatar.com/avatar/fa40acfdb9af9fea937524a5aef4aaf3.png?s=50">
             </span>
             <a href="htpt://twitter.com/akhy" class="circle">
-               <img src="{{ site.url }}/assets/img/twitter.jpg" width="50">
+               <img src="{{ site_url }}/assets/img/twitter.jpg" width="50">
+            </a>
+            <a href="htpt://github.com/akhyrul" class="circle">
+               <img src="{{ site_url }}/assets/img/github.png" width="50">
             </a>
         </section>
 
@@ -40,12 +43,12 @@
       <section class="eleven columns">
         <hgroup>
           {% if page.index %}
-            <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+            <h1><a href="{{ site_url }}">{{ site.title }}</a></h1>
             <span>{ "author": "akhyar", "url": "http://akhyar.net", "lang": ["en", "id"] }</span>
           {% else %}
             <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
             <small>
-            <a href="{{ site.url }}">&laquo; back to home</a> 
+            <a href="/">&laquo; back to home</a> 
             {% for tag in page.tags %}
               | {{ tag }}
             {% endfor %}
