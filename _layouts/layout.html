@@ -4,14 +4,35 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="author" content="Your Name" />
-    <title>{{ page.title }}</title>
+    <link href="{{ root_url }}/assets/css/base.css" rel="stylesheet" type="text/css">
+    <link href="{{ root_url }}/assets/css/skeleton.css" rel="stylesheet" type="text/css">
+    <link href="{{ root_url }}/assets/css/layout.css" rel="stylesheet" type="text/css">
+    <link href="{{ root_url }}/assets/css/akhyar.css" rel="stylesheet" type="text/css">
+    <title>{{ site.title }}</title>
   </head>
   <body>
-    <header>
-      <h1><a href="/">{{ page.title }}</a></h1>
-    </header>
-    <section>
-      {{ content }}
-    </section>
+    <div class="container">
+      <aside class="four columns">
+        <section class="colophone">
+          {% include colophone.html %}
+        </section>
+      </aside>
+      
+      <section class="twelve columns">
+        <hgroup>
+          <h1><a href="/">{{ page.title }}</a></h1>
+          <em>{{ page.subtitle }}</em>
+        </hgroup>
+
+        {% if page.subtitle %} <hr> {% endif %}
+        {{ content }}
+
+        <section id="footer">
+          <small>
+            <em> blogged by @akhy powered by jekyll and github </em>
+          </small>
+        </section>
+      </section>
+    </div>
   </body>
 </html>
