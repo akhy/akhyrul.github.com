@@ -41,7 +41,6 @@ class Article extends CI_Controller {
 			// Show the form
 		}
 	}
-
 }
 ?>
 {% endhighlight %}
@@ -50,6 +49,8 @@ Laravel's controller has a feature that called RESTful controllers/actions that 
 
 	
 
+{% highlight html+php %}
+<?php
 	class Article extends Controller {
 	
 		public $resful = true;
@@ -64,8 +65,9 @@ Laravel's controller has a feature that called RESTful controllers/actions that 
 			// Process the form inputs
 			// then redirect to success page
 		}
-	
 	}
+?>
+{% endhighlight %}
 
 
 Elegant, isn't it? That way we can keep the URL for forms and processing the same yet preventing multiple form submission while keeping the code clean.  The route 'article/add' (assuming we're using standard route-action mapping) mapping will splitted to to different methods based on the HTTP request made by user. It will route to get_add() if the request is GET, and get_post() if it's a POST one. Pretty clear, huh?
@@ -76,7 +78,8 @@ Elegant, isn't it? That way we can keep the URL for forms and processing the sam
 
 We can get the same effect in CodeIgniter by using custom router class [as pointed by Todd in his article](http://www.toddandrae.com/?p=95). I just modified the code a little to mimic Laravel more. So we started by a custom class, create a file in 'application/core' named 'MY_Router.php'
 
-
+{% highlight html+php linenos %}
+<?php
 	class MY_Router extends CI_Router {
 		function fetch_method()
 		{
@@ -94,6 +97,8 @@ We can get the same effect in CodeIgniter by using custom router class [as point
 			return $method;
 		}
 	}
+?>
+{% endhighlight %}
 
 That's all! Now you get the same functionality as Laravel's RESTful Controller in CodeIgniter.
 
