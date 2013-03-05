@@ -56,7 +56,7 @@ dua jari. *Got it?*
 Sudah lama saya tertarik dengan Dvorak ini, bermula dari obrolan sama 
 [Mas Mul](http://twitter.com/mul14) dan [Mas Didiet](http://twitter.com/lynxluna). 
 Lalu baru-baru ini menjadi semakin menggebu-gebu setelah dikomporin 
-[Yuda](http://twitter.com/akuyudanta) dengan nunjukin (http://learn.dvorak.nl), 
+[Yuda](http://twitter.com/akuyudanta) dengan nunjukin [](http://learn.dvorak.nl), 
 sebuah website buat latihan ngetik Dvorak online.
 
 Gak perlu beli keyboard baru buat nyoba Dvorak, cukup setting keyboard di OS aja.
