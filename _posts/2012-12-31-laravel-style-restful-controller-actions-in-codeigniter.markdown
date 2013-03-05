@@ -25,7 +25,7 @@ This time I will show you [a trick I found](http://www.toddandrae.com/?p=95) and
 
 Consider the following CodeIgniter styled controller actions:
 
-{% highlight php %}
+{% highlight html+php %}
 <?php 
 class Article extends CI_Controller {
 
