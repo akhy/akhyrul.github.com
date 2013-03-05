@@ -43,6 +43,7 @@ class Article extends CI_Controller {
 	}
 
 }
+?>
 {% endhighlight %}
 
 Laravel's controller has a feature that called RESTful controllers/actions that separates route mapping to different methods based on the HTTP request (post, get, put, delete, etc) made. Take a look at this one:
