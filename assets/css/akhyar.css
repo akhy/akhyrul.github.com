@@ -11,10 +11,7 @@ code{ font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", 
 	display: inline-block;	/* circle wraps image */
 	margin: 5px;
 	border-radius: 50%;	/* relative value */
-	border: 3px solid white;/* border width   */
-	box-shadow: 0px 0px 5px rgba(0,0,0,0.4);	
 	transition: linear 0.25s;
-
 	float: right;
 }
 .circle img {
