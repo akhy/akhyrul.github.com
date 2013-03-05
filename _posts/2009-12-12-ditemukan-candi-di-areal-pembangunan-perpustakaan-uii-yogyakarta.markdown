@@ -11,7 +11,7 @@ tags:
 - world
 ---
 
-[![He, ini kampus saya?](http://octopress.dev/uploads/uii-boulevard.jpg)](http://octopress.dev/uploads/uii-boulevard.jpg)
+[![He, ini kampus saya?](http://akhyar.net/uploads/uii-boulevard.jpg)](http://akhyar.net/uploads/uii-boulevard.jpg)
 
 
 He, ini kampus saya?

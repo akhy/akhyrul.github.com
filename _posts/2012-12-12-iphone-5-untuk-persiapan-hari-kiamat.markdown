@@ -11,7 +11,7 @@ post_format:
 - Aside
 ---
 
-[![image](http://octopress.dev/uploads/wpid-SC20121211-183051.png)](http://octopress.dev/uploads/wpid-SC20121211-183051.png)
+[![image](http://akhyar.net/uploads/wpid-SC20121211-183051.png)](http://akhyar.net/uploads/wpid-SC20121211-183051.png)
 
 
 

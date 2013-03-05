@@ -11,7 +11,7 @@ tags:
 - tips
 ---
 
-[![Urlist Logo](http://octopress.dev/uploads/urlist.jpg)](http://octopress.dev/uploads/urlist.jpg)
+[![Urlist Logo](http://akhyar.net/uploads/urlist.jpg)](http://akhyar.net/uploads/urlist.jpg)
 
 
 Create and share your list of links

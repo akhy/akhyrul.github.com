@@ -12,7 +12,7 @@ tags:
 - social media
 ---
 
-[![Pinjem hapenya dong!](http://octopress.dev/uploads/apdet-status.jpg)](http://octopress.dev/uploads/apdet-status.jpg)
+[![Pinjem hapenya dong!](http://akhyar.net/uploads/apdet-status.jpg)](http://akhyar.net/uploads/apdet-status.jpg)
 
 
 Pinjem hapenya dong!

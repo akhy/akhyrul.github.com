@@ -56,14 +56,14 @@ sudo apt-get install playonlinux
 
 Buka PlayOnLinux dan klik 'Install'. Klik 'Refresh' bila diperlukan (list software belum diload)
 
-[caption id="attachment_492" align="aligncenter" width="300"][![Pilih Microsoft Office 2007](http://octopress.dev/uploads/playonlinux-1-300x233.png)](http://octopress.dev/uploads/playonlinux-1.png) Pilih Microsoft Office 2007[/caption]
+[caption id="attachment_492" align="aligncenter" width="300"][![Pilih Microsoft Office 2007](http://akhyar.net/uploads/playonlinux-1-300x233.png)](http://akhyar.net/uploads/playonlinux-1.png) Pilih Microsoft Office 2007[/caption]
 
 Cari Microsoft Office 2007 di menu Office dan klik Apply. Bisa dilihat kalau Access, Groove, dan Outlook tidak bisa jalan di atas Wine. Ketika anda mengklik Apply mungkin PlayOnLinux akan mendownload dulu versi Wine yang bisa digunakan untuk menjalankan Office 2007 dan membuatkan sebuah _wine prefix_ baru untuk itu.
 
 Masukkan path tempat installer Office 2007 berada ketika diminta, dan lanjutkan terus hingga Installer Office 2007 dijalankan. Jangan lupa untuk tidak menginstall Microsoft Access, Groove, dan Outlook karena akan sia-sia :D
 
 
-![](http://octopress.dev/uploads/ms-2007-300x156.png)
+![](http://akhyar.net/uploads/ms-2007-300x156.png)
 
 
 Di akhir instalasi mungkin PlayOnLinux akan mendownload lagi beberapa library yang dibutuhkan. Akhirnya paket Office 2007 anda siap dijalankan dari gnome menu atau shortcut di desktop. Sedikit tips, anda perlu menambahkan permission +x pada icon di desktop yang dibuat PlayOnLinux agar bisa dijalankan.
@@ -72,7 +72,7 @@ Di akhir instalasi mungkin PlayOnLinux akan mendownload lagi beberapa library ya
 
 
 
-[caption id="attachment_503" align="aligncenter" width="286"][![Microsoft Word on My Lucid Laptop](http://octopress.dev/uploads/word-on-lucid-286x300.jpg)](http://octopress.dev/uploads/word-on-lucid.jpg) Microsoft Word on My Lucid Laptop[/caption]
+[caption id="attachment_503" align="aligncenter" width="286"][![Microsoft Word on My Lucid Laptop](http://akhyar.net/uploads/word-on-lucid-286x300.jpg)](http://akhyar.net/uploads/word-on-lucid.jpg) Microsoft Word on My Lucid Laptop[/caption]
 
 
 > catatan: cara ini tidak hanya untuk Office, namun juga untuk aplikasi-aplikasi lain yang disupport oleh PlayOnLinux :)

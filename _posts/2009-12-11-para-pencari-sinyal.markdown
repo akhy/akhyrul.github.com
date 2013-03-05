@@ -12,7 +12,7 @@ tags:
 - tips
 ---
 
-![Kami butuh sinyal kuat](http://octopress.dev/uploads/we-need-signal.jpg)
+![Kami butuh sinyal kuat](http://akhyar.net/uploads/we-need-signal.jpg)
 
 
 Kami butuh sinyal kuat
@@ -37,7 +37,7 @@ Skrol ke bawah, eh ternyata pertamax sudah habis bahkan banyak yang ngantri dan 
 
 Dalam kebimbangan kucoba praktekkan keduanya dengan berat hati dan perasaan was-was. Beginilah hasilnya, sungguh nista
 
-[![Terlihat keren? Segera perikasakan mata anda ke tukang servis terdekat.](http://octopress.dev/uploads/penguat-sinyal-gretongan.jpg)](http://octopress.dev/uploads/penguat-sinyal-gretongan.jpg)
+[![Terlihat keren? Segera perikasakan mata anda ke tukang servis terdekat.](http://akhyar.net/uploads/penguat-sinyal-gretongan.jpg)](http://akhyar.net/uploads/penguat-sinyal-gretongan.jpg)
 
 
 Terlihat keren? Segera perikasakan mata anda ke tukang servis terdekat.
@@ -52,7 +52,7 @@ All hail, kaskus-sama! Thou know everything! (worship)
 
 Betewe lagi, ini hasil tes koneksi ke mbah google yang biasanya selalu kulakukan sambil browsing biar tau kalo koneksi lagi rada down. Setelah menggunakan penguat gretongan tersebut, ping time yang biasanya ribuan milisekon sekarang cuma beberapa ratus milisekon. Lumayan? Biar dikata orang norak, yang penting gretongan bung!
 
-[![Huff, cuma dapat GPRS](http://octopress.dev/uploads/test-ngeping-dengan-penguat-gretongan-300x155.jpg)](http://octopress.dev/uploads/test-ngeping-dengan-penguat-gretongan.jpg)
+[![Huff, cuma dapat GPRS](http://akhyar.net/uploads/test-ngeping-dengan-penguat-gretongan-300x155.jpg)](http://akhyar.net/uploads/test-ngeping-dengan-penguat-gretongan.jpg)
 
 
 Huff, cuma dapat GPRS

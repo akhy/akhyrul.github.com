@@ -11,7 +11,7 @@ tags:
 - tips
 ---
 
-[![Mau email kayak gini? ](http://octopress.dev/uploads/email.jpg)](http://octopress.dev/uploads/email.jpg)
+[![Mau email kayak gini? ](http://akhyar.net/uploads/email.jpg)](http://akhyar.net/uploads/email.jpg)
 
 
 Mau email kayak gini? 

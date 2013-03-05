@@ -14,7 +14,7 @@ tags:
 - software
 ---
 
-[![i need a nice yet powerful code editor](http://octopress.dev/uploads/webcode.jpg)](http://octopress.dev/uploads/webcode.jpg)Ide untuk menulis posting ini bermula ketika saya tengah mengerjakan theme wordpress yang mungkin sedang anda lihat sekarang. Bila di header blog ini ada sesosok cewek berseragam sekolah jepang yang menenteng sebuah katana sembari berlari, nah itulah hasil pertama kali saya melakukan coding secara serius di platform linux (tepatnya Ubuntu Karmic). _Baidewei_ kalo mau tau, nama theme-nya _Monochrome Kiss_ yang terinspirasi dari lagu _Monokuro no Kisu_ oleh _Sid_ yang kebetulan diputer pas baru kelar finishing jQuery-nya.
+[![i need a nice yet powerful code editor](http://akhyar.net/uploads/webcode.jpg)](http://akhyar.net/uploads/webcode.jpg)Ide untuk menulis posting ini bermula ketika saya tengah mengerjakan theme wordpress yang mungkin sedang anda lihat sekarang. Bila di header blog ini ada sesosok cewek berseragam sekolah jepang yang menenteng sebuah katana sembari berlari, nah itulah hasil pertama kali saya melakukan coding secara serius di platform linux (tepatnya Ubuntu Karmic). _Baidewei_ kalo mau tau, nama theme-nya _Monochrome Kiss_ yang terinspirasi dari lagu _Monokuro no Kisu_ oleh _Sid_ yang kebetulan diputer pas baru kelar finishing jQuery-nya.
 
 <!-- more -->
 

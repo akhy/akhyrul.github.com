@@ -12,7 +12,7 @@ tags:
 - thought
 ---
 
-[![Tebak saya yang mana?](http://octopress.dev/uploads/profesian-ceria-300x166.jpg)](http://octopress.dev/uploads/profesian-ceria.jpg)
+[![Tebak saya yang mana?](http://akhyar.net/uploads/profesian-ceria-300x166.jpg)](http://akhyar.net/uploads/profesian-ceria.jpg)
 
 
 Profesian Ceria

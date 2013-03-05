@@ -12,7 +12,7 @@ tags:
 - tips
 ---
 
-[![Numpang Promosi](http://octopress.dev/uploads/jquery-workshop-300x211.jpg)](http://octopress.dev/uploads/jquery-workshop.jpg)
+[![Numpang Promosi](http://akhyar.net/uploads/jquery-workshop-300x211.jpg)](http://akhyar.net/uploads/jquery-workshop.jpg)
 
 
 

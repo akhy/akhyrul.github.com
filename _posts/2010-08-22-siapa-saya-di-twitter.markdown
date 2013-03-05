@@ -19,6 +19,6 @@ Sekedar posting iseng. Bagi yang membaca ini dan memiliki Twitter diwajibkan unt
 
 
 
-[![Me on Twitter](http://octopress.dev/uploads/me-on-twitter.jpg)](http://octopress.dev/uploads/me-on-twitter.jpg)
+[![Me on Twitter](http://akhyar.net/uploads/me-on-twitter.jpg)](http://akhyar.net/uploads/me-on-twitter.jpg)
 
 

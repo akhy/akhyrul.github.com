@@ -20,7 +20,7 @@ Kok bisa gratis? Ya bisa lah! _*ngumpet dari [Mas Rasya](http://rasya23.wordpres
 
 Kalo gak digratisin ya saya gak bakal ikutan kok. Tapi berhubung saya terlanjur bilang kendala di finansial _(akhir bulan bo!)_, pas dikasih _'bantuan'_ ditambah sedikit paksaan untuk mewakili [Sirkel](http://akhyar.web.id/2010/08/14/sirkel/) akhirnya saya luluh juga. Lumayan bisa jalan-jalan ke Bali. Padahal seharusnya Jogja-Surabaya-Bali malah jadi Jogja-Bali doang karena satu dan lain hal, ini yang bikin saya rada males-malesan untuk ikut. Lagian anak-anak lab kayaknya jadi pada males ikutan karena pengkuotaan untuk asisten lab yang dibatasi cuman 20 orang. Ditambah perjalanan Jogja-Bali yang harus ditempuh lewat darat, bikin capek di jalan. Gimana mau rame? (ninja)
 
-[![Nyeberang Banyuwangi-Gilimanuk](http://octopress.dev/uploads/banyuwangi-gilimanuk-225x300.jpg)](http://octopress.dev/uploads/banyuwangi-gilimanuk.jpg)
+[![Nyeberang Banyuwangi-Gilimanuk](http://akhyar.net/uploads/banyuwangi-gilimanuk-225x300.jpg)](http://akhyar.net/uploads/banyuwangi-gilimanuk.jpg)
 
 
 Nyeberang Banyuwangi-Gilimanuk
@@ -29,7 +29,7 @@ Nyeberang Banyuwangi-Gilimanuk
 
 Anyway, akhirnya saya berangkat juga dengan total anggota rombongan sekitar 50 orang termasuk anak-anak HM, asisten lab, dosen, dan karyawan. Btw, ternyata masih ada yang daftarnya lebih telat dari saya lho (haha) Sepanjang perjalanan capek duduk sumpah. Dari berangkat sampe di penginapan butuh waktu 24 jam gara-gara malamnya harus muter jalan karena ada banjir di Pasuruan. (okok)
 
-[![Puri Dewa Bharata](http://octopress.dev/uploads/bali-puri-dewa-bharata-300x225.jpg)](http://octopress.dev/uploads/bali-puri-dewa-bharata.jpg)
+[![Puri Dewa Bharata](http://akhyar.net/uploads/bali-puri-dewa-bharata-300x225.jpg)](http://akhyar.net/uploads/bali-puri-dewa-bharata.jpg)
 
 
 Puri Dewa Bharata
@@ -62,7 +62,7 @@ Sesampainya di Kuta, mau jalan ke arah Monumen ternyata jalan untuk mobilnya uda
 
 Yaudah lah, akhirnya berlima kami foto-foto sejenak di pantai. Tapi gelap! Ya iyalah!
 
-[![Ngegembel di Kuta](http://octopress.dev/uploads/kuta-night-300x225.jpg)](http://octopress.dev/uploads/kuta-night.jpg)
+[![Ngegembel di Kuta](http://akhyar.net/uploads/kuta-night-300x225.jpg)](http://akhyar.net/uploads/kuta-night.jpg)
 
 
 Ngegembel di Kuta

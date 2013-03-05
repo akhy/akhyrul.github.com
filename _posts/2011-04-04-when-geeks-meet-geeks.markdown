@@ -20,7 +20,7 @@ Sekedar catatan beberapa geeks-related-event yang saya hadiri. Meskipun sering y
 # PPP
 
 
-[caption id="attachment_470" align="aligncenter" width="300"][![Admin PPP di Bendungan Wadaslintang](http://octopress.dev/uploads/ppp-wadaslintang-300x168.jpg)](http://akhyar.web.id/2011/04/04/when-geeks-meet-geeks/ppp-wadaslintang/) Admin PPP di Bendungan Wadaslintang (photo by @widy_agung)[/caption]
+[caption id="attachment_470" align="aligncenter" width="300"][![Admin PPP di Bendungan Wadaslintang](http://akhyar.net/uploads/ppp-wadaslintang-300x168.jpg)](http://akhyar.web.id/2011/04/04/when-geeks-meet-geeks/ppp-wadaslintang/) Admin PPP di Bendungan Wadaslintang (photo by @widy_agung)[/caption]
 
 
 > Jangan tanya group PPP itu singkatan dari apa, tapi lihatlah isinya..Bisa dijadikan apa saja, ntah para pencari petualang, para penuntun pengetahuan, para penggemar panganan, dan flexible bisa jadi apa saja... :D
@@ -40,7 +40,7 @@ Meskipun didominasi anak Jogja (dan UII khususnya, 5 dari 6 founder adalah mahas
 
 
 
-## [![](http://octopress.dev/uploads/sparxup.png)](http://octopress.dev/uploads/sparxup.png)Pembicara:
+## [![](http://akhyar.net/uploads/sparxup.png)](http://akhyar.net/uploads/sparxup.png)Pembicara:
 
 
 
@@ -63,7 +63,7 @@ Cerita tentang strategi mendapatkan _user engagement_, dan presentasi eEvent.co
 
 
 
-[caption id="attachment_477" align="aligncenter" width="300"][![PPP on SparxUp Award](http://octopress.dev/uploads/ppp-300x180.jpg)](http://octopress.dev/uploads/ppp.jpg) PPP on SparxUp Award (photo by @naphi)[/caption]
+[caption id="attachment_477" align="aligncenter" width="300"][![PPP on SparxUp Award](http://akhyar.net/uploads/ppp-300x180.jpg)](http://akhyar.net/uploads/ppp.jpg) PPP on SparxUp Award (photo by @naphi)[/caption]
 
 
 ## Tentunya foto empat orang di atas bukan foto pembicara seminar. Kebetulan aja admin PPP minus @[fajarsaptono](http://twitter.com/fajarsaptono) (yang udah balik ke Pekanbaru) secara berbarengan hadir sekalian nebeng meetup di acaranya SparxUp di University Club UGM ini. Great event! Four thumbs up for eEvent!
@@ -89,4 +89,4 @@ Dengan host @[lynxluna](http://twitter.com/lynxluna) (juga inisiator) dan pembic
 
 Baidewei, ada yang kayak gini? :P
 
-[caption id="attachment_509" align="aligncenter" width="225"][![Young couple holding hands](http://octopress.dev/uploads/geeks-meet-225x300.jpg)](http://octopress.dev/uploads/geeks-meet.jpg) foto: www.geeksugar.com[/caption]
+[caption id="attachment_509" align="aligncenter" width="225"][![Young couple holding hands](http://akhyar.net/uploads/geeks-meet-225x300.jpg)](http://akhyar.net/uploads/geeks-meet.jpg) foto: www.geeksugar.com[/caption]

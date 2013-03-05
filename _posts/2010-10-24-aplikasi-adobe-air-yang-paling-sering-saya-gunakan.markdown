@@ -19,7 +19,7 @@ _Platform independent_ adalah suatu hal yang saya suka dari aplikasi web. Bagaim
 
 <!-- more -->
 
-[![Programming di Air](http://octopress.dev/uploads/programming-di-air.gif)](http://chickenstrip.wordpress.com/2008/12/12/chickenstrip-132-programming-di-air/)
+[![Programming di Air](http://akhyar.net/uploads/programming-di-air.gif)](http://chickenstrip.wordpress.com/2008/12/12/chickenstrip-132-programming-di-air/)
 
 
 Anda tidak cocok programming di Air
@@ -58,7 +58,7 @@ http://tweetdeck.com
 # DestroyTwitter
 
 
-_[![DestroyTwitter](http://octopress.dev/uploads/ss-destroy-twitter-150x150.jpg)](http://octopress.dev/uploads/ss-destroy-twitter.jpg)My Twitter desktop client of choice_ untuk saat ini. Seperti yang diklaim di website resminya, DestroyTwitter sangat ringan dan irit memori meskipun fiturnya tidak sekaya TweetDeck. Sayangnya tidak mendukung (atau saya yang belum tau?)[ Twitter list](http://seesmic.com/).Ya setidaknya lumayan buat sekedar mendapatkan berita-berita terbaru secara realtime :)
+_[![DestroyTwitter](http://akhyar.net/uploads/ss-destroy-twitter-150x150.jpg)](http://akhyar.net/uploads/ss-destroy-twitter.jpg)My Twitter desktop client of choice_ untuk saat ini. Seperti yang diklaim di website resminya, DestroyTwitter sangat ringan dan irit memori meskipun fiturnya tidak sekaya TweetDeck. Sayangnya tidak mendukung (atau saya yang belum tau?)[ Twitter list](http://seesmic.com/).Ya setidaknya lumayan buat sekedar mendapatkan berita-berita terbaru secara realtime :)
 
 Baidewei, namanya sangar juga ya untuk Twitter client :D
 
@@ -68,7 +68,7 @@ http://destroytwitter.com
 # Tumblweed
 
 
-[![Tumbleweed](http://octopress.dev/uploads/ss-tumbleweed-150x150.jpg)](http://octopress.dev/uploads/ss-tumbleweed.jpg)Tumblr client yang simpel dan gampang digunakan. Sebenarnya sih saya lebih sering menggunakan ini hanya untuk ngepost quote favorit ke [Tjatatan Djempol](http://akhyar.tumblr.com/) :P
+[![Tumbleweed](http://akhyar.net/uploads/ss-tumbleweed-150x150.jpg)](http://akhyar.net/uploads/ss-tumbleweed.jpg)Tumblr client yang simpel dan gampang digunakan. Sebenarnya sih saya lebih sering menggunakan ini hanya untuk ngepost quote favorit ke [Tjatatan Djempol](http://akhyar.tumblr.com/) :P
 
 http://tumblweed.org
 
@@ -86,7 +86,7 @@ http://doominow.com/
 # App for the Milk
 
 
-[![](http://octopress.dev/uploads/ss-themilk-150x150.jpg)](http://octopress.dev/uploads/ss-themilk.jpg)Aplikasi Air untuk layanan online Todo List bernama _Remember the Milk_. Ringan, simple, dan aplikasi webnya juga bisa diakses via mobile browser hape Samsung-ku. Namanya unik, kayak catatan belanja susu aja :))
+[![](http://akhyar.net/uploads/ss-themilk-150x150.jpg)](http://akhyar.net/uploads/ss-themilk.jpg)Aplikasi Air untuk layanan online Todo List bernama _Remember the Milk_. Ringan, simple, dan aplikasi webnya juga bisa diakses via mobile browser hape Samsung-ku. Namanya unik, kayak catatan belanja susu aja :))
 
 http://www.rememberthemilk.com/
 
