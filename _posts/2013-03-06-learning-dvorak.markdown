@@ -34,6 +34,8 @@ jamming", bukan berorientasi pada kenyamanan pengguna. Penggunaan dalam jangka
 lama konon sangat membebani tangan karena distribusi penempatan tombol tidak 
 merata berdasarkan frekuensi penekanannya.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KB_United_States_Dvorak.svg/500px-KB_United_States_Dvorak.svg.png)
+
 Lalu diciptakanlah berbagai layout keyboard baru, salah satunya adalah 
 [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard).
 Layout ini diciptakan untuk mengurangi beban kerja jari tangan dengan menempatkan
@@ -52,7 +54,7 @@ dua jari. *Got it?*
 ---
 
 Sudah lama saya tertarik dengan Dvorak ini, bermula dari obrolan sama 
-[Mas Mul](http://twitter.com/mul14) dan (Mas Didiet)[http://twitter.com/lynxluna]. 
+[Mas Mul](http://twitter.com/mul14) dan [Mas Didiet](http://twitter.com/lynxluna). 
 Lalu baru-baru ini menjadi semakin menggebu-gebu setelah dikomporin 
 [Yuda](http://twitter.com/akuyudanta) dengan nunjukin (http://learn.dvorak.nl), 
 sebuah website buat latihan ngetik Dvorak online.
@@ -71,7 +73,6 @@ seharian pake Dvorak tanpa switch back ke Qwerty. Padahal, menurut
 [Yuda](http://twitter.com/akuyudanta) trik begitu ampuh buat cepat menguasai Dvorak
 :(
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KB_United_States_Dvorak.svg/500px-KB_United_States_Dvorak.svg.png)
 
 
 ---
