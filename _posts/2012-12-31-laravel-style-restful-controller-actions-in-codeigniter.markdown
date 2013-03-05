@@ -26,7 +26,6 @@ This time I will show you [a trick I found](http://www.toddandrae.com/?p=95) and
 Consider the following CodeIgniter styled controller actions:
 
 {% highlight php %}
-<?php 
 class Article extends CI_Controller {
 
 	public function add()
@@ -43,7 +42,6 @@ class Article extends CI_Controller {
 	}
 
 }
-?>
 {% endhighlight %}
 
 Laravel's controller has a feature that called RESTful controllers/actions that separates route mapping to different methods based on the HTTP request (post, get, put, delete, etc) made. Take a look at this one:

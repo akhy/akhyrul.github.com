@@ -8,7 +8,8 @@
     <link href="{{ root_url }}/assets/css/skeleton.css" rel="stylesheet" type="text/css">
     <link href="{{ root_url }}/assets/css/layout.css" rel="stylesheet" type="text/css">
     <link href="{{ root_url }}/assets/css/akhyar.css" rel="stylesheet" type="text/css">
-    <title>{{ site.title }}</title>
+    <link href="{{ root_url }}/assets/css/solarized-light.css" rel="stylesheet" type="text/css">
+    <title>{{ page.title }} | {{ site.title }}</title>
   </head>
   <body>
     <div class="container">
@@ -20,11 +21,23 @@
       
       <section class="twelve columns">
         <hgroup>
-          <h1><a href="/">{{ page.title }}</a></h1>
-          <em>{{ page.subtitle }}</em>
+
+          {% if page.index %}
+            <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+            <span>{ "owner": "akhyar", "url": "http://akhyar.net", "lang": ["en", "id"] }</span>
+          {% else %}
+            <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+            <small>
+            <a href="{{ site.url }}">&laquo; back to home</a> 
+            {% for tag in page.tags %}
+              | {{ tag }}
+            {% endfor %}
+            </small>
+          {% endif %}
         </hgroup>
 
-        {% if page.subtitle %} <hr> {% endif %}
+        <hr>
+
         {{ content }}
 
         <section id="footer">
