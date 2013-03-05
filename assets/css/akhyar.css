@@ -5,3 +5,24 @@ article.post{ margin-bottom: 2em; }
 
 #footer { color: #999; margin-top: 2em; padding-top: 2em; border-top: 1px solid #bbb; }
 code{ font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace; }
+
+.circle {
+	line-height: 0;		/* remove line-height */ 
+	display: inline-block;	/* circle wraps image */
+	margin: 5px;
+	border-radius: 50%;	/* relative value */
+	border: 3px solid white;/* border width   */
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.4);	
+	transition: linear 0.25s;
+
+	float: right;
+}
+.circle img {
+	border-radius: 50%;	/* relative value for
+				   adjustable image size */
+}
+.circle:hover {
+	transition: ease-out 0.3s;
+	transform: scale(0.8) rotate(20deg) translateZ(0);
+}
+a.circle { color: transparent; } /* IE fix: removes blue border */	

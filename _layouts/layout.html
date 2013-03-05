@@ -13,18 +13,34 @@
   </head>
   <body>
     <div class="container">
-      <aside class="four columns">
-        <section class="colophone">
-          {% include colophone.html %}
+
+      <aside class="five columns">
+
+        <section class="columns five">
+          <h3>&raquo; the author</h3>
+        </section>
+
+        <section class="one columns alpha">
+            <span class="circle">
+               <img src="http://www.gravatar.com/avatar/fa40acfdb9af9fea937524a5aef4aaf3.png?s=80">
+            </span>
+            <a href="htpt://twitter.com/akhy" class="circle">
+               <img src="{{ site.url }}/assets/img/twitter.jpg" width="80">
+            </a>
+        </section>
+
+        <section class="four columns omega">
+          <section class="colophone">
+            {% include colophone.html %}
+          </section>
         </section>
       </aside>
       
-      <section class="twelve columns">
+      <section class="eleven columns">
         <hgroup>
-
           {% if page.index %}
             <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
-            <span>{ "owner": "akhyar", "url": "http://akhyar.net", "lang": ["en", "id"] }</span>
+            <span>{ "author": "akhyar", "url": "http://akhyar.net", "lang": ["en", "id"] }</span>
           {% else %}
             <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
             <small>

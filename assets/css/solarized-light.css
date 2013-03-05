@@ -1,4 +1,5 @@
-.hll, .highlight { background-color: #ffffcc; padding: 1em; }
+.highlight { padding: 1em; background-color: #fdf6e3; }
+.highlight .hll { background-color: #ffffcc; }
 .highlight .c { color: #586E75 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
