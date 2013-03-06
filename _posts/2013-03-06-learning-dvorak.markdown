@@ -19,7 +19,7 @@ tags:
 > tidak berurut ABCD? Kenapa sih susunannya QWERTY?
 
 Konon, jaman dulu layout Qwerty diciptakan untuk mengatasi masalah seringnya
-mesin ketik macet (*jammed*) akibat pmenekan dua tombol bersamaan. Layout Qwerty
+mesin ketik macet (*jammed*) akibat menekan dua tombol bersamaan. Layout Qwerty
 menempatkan tombol-tombol yang sering dipencet berurutan (berdasarkan kata-kata
 bahasa Inggris) saling berjauhan agar ketika dipencet kemungkinan macet bisa 
 diminimalisir.
