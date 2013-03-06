@@ -47,7 +47,7 @@
 		comment brackets */
 
 	@font-face {
-	    font-family: 'Libre Baskerville';
+	    font-family: 'LibreBaskerville';
 	    src: url('../fonts/LibreBaskerville.eot');
 	    src: url('../fonts/LibreBaskerville.eot?iefix') format('eot'),
 	         url('../fonts/LibreBaskerville.woff') format('woff'),
@@ -55,3 +55,7 @@
 	         url('../fonts/LibreBaskerville.svg#webfontZam02nTh') format('svg');
 	    font-weight: 700;
 	    font-style: normal; }
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: "LibreBaskerville", "Georgia", "Times New Roman", serif;
+	}
