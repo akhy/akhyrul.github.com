@@ -16,6 +16,8 @@ Judulnya kok bikin deja vu ya? :-"
 
 Studi Tour ke luar daerah emang udah jadi agenda jurusan saya tiap tahunnya. Biasanya sih yang diundang anak-anak Himpunan Mahasiswa dan Asisten Lab, juga mahasiswa informatika lainnya yang berminat, tak ketinggalan dosen, mas-mas dan mbak-mbak laboran juga sekretaris jurusan. Yang bikin menarik, biaya perjalanan selalu disubsidi dari jurusan, jadi lumayan lah bisa sekalian liburan di akhir tahun akademik dengan cuma sedikit keluar duit. Tapi khusus untuk saya ongkos perjalanan ke Bali kali ini bisa dibilang gratis karena tidak perlu ngeluarin duit di depan selain untuk oleh-oleh yang secara aturan tak tertulis memang _fardu ain_ hukumnya :D
 
+<!-- more -->
+
 Kok bisa gratis? Ya bisa lah! _*ngumpet dari [Mas Rasya](http://rasya23.wordpress.com/) & [Bu Nur](http://nnur.staff.uii.ac.id)*_
 
 Kalo gak digratisin ya saya gak bakal ikutan kok. Tapi berhubung saya terlanjur bilang kendala di finansial _(akhir bulan bo!)_, pas dikasih _'bantuan'_ ditambah sedikit paksaan untuk mewakili [Sirkel](http://akhyar.web.id/2010/08/14/sirkel/) akhirnya saya luluh juga. Lumayan bisa jalan-jalan ke Bali. Padahal seharusnya Jogja-Surabaya-Bali malah jadi Jogja-Bali doang karena satu dan lain hal, ini yang bikin saya rada males-malesan untuk ikut. Lagian anak-anak lab kayaknya jadi pada males ikutan karena pengkuotaan untuk asisten lab yang dibatasi cuman 20 orang. Ditambah perjalanan Jogja-Bali yang harus ditempuh lewat darat, bikin capek di jalan. Gimana mau rame? (ninja)

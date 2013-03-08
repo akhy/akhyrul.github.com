@@ -17,7 +17,7 @@ tags:
 
 
 
-Kadang kita butuh lebih dari satu _Javascript Library_ dalam satu waktu. Dalam kasus saya beberapa hari yang lali, plugin yang saya butuhkan ternyata hanya bisa digunakan dengan library Mochikit. Kebetulan berbeda dengan library yang saya gunakan untuk website yang sama, yaitu jQuery.<!-- more -->
+Kadang kita butuh lebih dari satu _Javascript Library_ dalam satu waktu. Dalam kasus saya beberapa hari yang lali, plugin yang saya butuhkan ternyata hanya bisa digunakan dengan library Mochikit. Kebetulan berbeda dengan library yang saya gunakan untuk website yang sama, yaitu jQuery. <!-- more -->
 
 
 Ketika menggunakan beberapa library JavaScript bersamaan terkadang muncul konflik yang agak sulit untuk didebug. Entah saya yang bego, yang jelas saya menghabiskan sampe satu jam untuk ngoprek kode hanya untuk akhirnya tepok jidat menyadari kalau terjadi konflik antara Mochikit dan jQuery (doh)

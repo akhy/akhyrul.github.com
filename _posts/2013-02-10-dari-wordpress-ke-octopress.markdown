@@ -18,6 +18,8 @@ merupakan template "telanjang" yang seharusnya digunakan sebagai fondasi
 pengembangan desain kita sendiri, tapi saya biarkan apa adanya karena yang 
 begini aja sudah cukup sedap dipandang mata.
 
+<!-- more -->
+
 Gak cuma itu, saya juga udah migrasiin platform blog ini [dari WordPress ke 
 static HTML](http://jason.pureconcepts.net/2013/01/migrating-wordpress-octopress/). 
 Anda gak salah baca, STATIC HTML, tanpa PHP, tanpa bahasa 

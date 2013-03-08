@@ -15,7 +15,9 @@ tags:
 
 Berhubung lagi demen sama tampilan simpel, maka saya mau gak mau harus melakukan sweeping _sidebar_ :D Salah satu yang cukup banyak dan akan selalu bertambah banyak adalah widget blogroll. Mau gak ditampilin sayang, ditampilin juga boros tempat. Salah satu solusinya adalah dengan memindahkannya ke _page_ (ini salah satu jargon WordPress (WP), jangan diartikan sebagai halaman :) ). Kalo gak ngerti, kayak yang [di sini](http://akhyar.web.id/blogroll) lho ;)
 
-<!-- more -->Setelah _googling_ sana-sini solusi yang saya temukan kebanyakan menyarankan untuk membuat _custom template_. Nah lo, terlalu teknis ya? _Ember_, soalnya harus ngedit-ngedit kode lagi. Bagi yang alergi coding atau kurang ngerti jeroannya WordPress, cara ini terlalu ribet. Kadang ada yang menempuh jalan manual dengan mengetikkannya manual di _page_ baru yang dikasih nama 'Blogroll' misalnya. Waduh, kalo blogrollnya udah banyak jadi ribet dong? Untuk pengguna WordPress _self-hosted_ (baca: install sendiri, bukan yang di WordPress.com) ada cara yang lebih simpel, dengan syarat ngerti caranya install _plugin_. Masa udah make WordPress _self-hosted_ gak bisa nginstall plugin sih? ;)
+<!-- more -->
+
+Setelah _googling_ sana-sini solusi yang saya temukan kebanyakan menyarankan untuk membuat _custom template_. Nah lo, terlalu teknis ya? _Ember_, soalnya harus ngedit-ngedit kode lagi. Bagi yang alergi coding atau kurang ngerti jeroannya WordPress, cara ini terlalu ribet. Kadang ada yang menempuh jalan manual dengan mengetikkannya manual di _page_ baru yang dikasih nama 'Blogroll' misalnya. Waduh, kalo blogrollnya udah banyak jadi ribet dong? Untuk pengguna WordPress _self-hosted_ (baca: install sendiri, bukan yang di WordPress.com) ada cara yang lebih simpel, dengan syarat ngerti caranya install _plugin_. Masa udah make WordPress _self-hosted_ gak bisa nginstall plugin sih? ;)
 
 Seharusnya bagi pemakai WordPress yang udah berpengalaman pasti bisa menebak alur cerita posting ini :D
 

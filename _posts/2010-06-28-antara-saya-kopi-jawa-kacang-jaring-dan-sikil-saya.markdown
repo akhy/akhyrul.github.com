@@ -16,7 +16,9 @@ Kopi Jawa? Kacang Jaring... dan Sikil Saya?
 
 Tentu saja saya bukan mau ngebahas soal resep kopi yang enak atau cara beternak kacang spesies baru, bukan pula curcol soal sikil saya yang keinjek paku :D . Kalau anda gak ngerti pemrograman, emang gitu sih jadinya. Imajinasi liar bisa melintas begitu saja menafsirkan maksud judul posting ini. :-"
 
-<!-- more -->Jujur, judul posting ini sudah tergeletak begitu saja tanpa isi di draft WP selama berminggu-minggu bersama posting yang seharusnya dijadwalin meluncur bareng posting Faye. Kenapa ya, semangat ngepost saya luntur begitu saja semenjak kebanjiran tugas dan garis mati (baca: deadline) yang bikin saya makin sering mantengin internet kost yang udah pake sapidi paket bisnis _*ditimpuk modem*_. Yaiyalah, _secara_ kebanyakan kerjaan saya emang berhubungan dan butuh internet. Mau gak mau harus terus _stay online_ di depan Wulan. Dan mau gimana lagi, internet laknat itu selalu bikin perhatian saya terhadap kerjaan teralihkan. Namanya udah kecanduan internet kalo masuk ke jaringan high-speed kayak gini ya maunya browsing, donlot, chatting geje mulu... All hail _procrastinator_!!! (rock)
+<!-- more -->
+
+Jujur, judul posting ini sudah tergeletak begitu saja tanpa isi di draft WP selama berminggu-minggu bersama posting yang seharusnya dijadwalin meluncur bareng posting Faye. Kenapa ya, semangat ngepost saya luntur begitu saja semenjak kebanjiran tugas dan garis mati (baca: deadline) yang bikin saya makin sering mantengin internet kost yang udah pake sapidi paket bisnis _*ditimpuk modem*_. Yaiyalah, _secara_ kebanyakan kerjaan saya emang berhubungan dan butuh internet. Mau gak mau harus terus _stay online_ di depan Wulan. Dan mau gimana lagi, internet laknat itu selalu bikin perhatian saya terhadap kerjaan teralihkan. Namanya udah kecanduan internet kalo masuk ke jaringan high-speed kayak gini ya maunya browsing, donlot, chatting geje mulu... All hail _procrastinator_!!! (rock)
 
 Kembali ke judul, kenapa judulnya kayak gitu? Kayaknya gambar-gambar berikut bisa ngasih sedikit pencerahan.
 

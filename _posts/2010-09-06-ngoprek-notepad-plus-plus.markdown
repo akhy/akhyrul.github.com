@@ -14,7 +14,9 @@ tags:
 
 Keberadaan koneksi internet di rumah yang tergantung pada pulsa Flexi, membuat saya dongkol sendiri kalo lagi kehabisan pulsa. Namun hikmah yang bisa diambil _*ramadhan effects*_ ternyata sangat banyak. Di samping belajar bersabar, saya juga bisa menjadi lebih fokus untuk ngoding proyek Kerja Praktek dan mempelajari PHP framework. Tanya kenapa? _You know why_ lah ya :-" .
 
-<!-- more -->Salah satu _code editor_ yang paling saya demenin di platform Jendela dan sekalian saya jadiin _default text editor_ adalah Notepad++. Sebagaimana C++ dan Pijat++,  yang namanya pake embel-embel _ples ples_ itu pasti ya punya sesuatu yang _"lebih"_ lah dibanding yang gak pake ;) Berangkat dari sifat keisengan saya yang suka ngoprek tampilan suatu aplikasi jadi mirip aplikasi lain, terbersitlah ide iseng bikin Notepad++ saya jadi mirip TextMate, _code editor_ nan powerful yang hanya tersedia eksklusip untuk pengguna komputer Apel.
+<!-- more --> 
+
+Salah satu _code editor_ yang paling saya demenin di platform Jendela dan sekalian saya jadiin _default text editor_ adalah Notepad++. Sebagaimana C++ dan Pijat++,  yang namanya pake embel-embel _ples ples_ itu pasti ya punya sesuatu yang _"lebih"_ lah dibanding yang gak pake ;) Berangkat dari sifat keisengan saya yang suka ngoprek tampilan suatu aplikasi jadi mirip aplikasi lain, terbersitlah ide iseng bikin Notepad++ saya jadi mirip TextMate, _code editor_ nan powerful yang hanya tersedia eksklusip untuk pengguna komputer Apel.
 
 
 ### Syntax Highlighting

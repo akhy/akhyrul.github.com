@@ -14,7 +14,7 @@ tags:
 
 Jikalau boleh dikata, sebenarnya saya pribadi baru waktu kuliah ini menyeriusi dalam hal pemrograman web. Kalau sebelumnya hanya sekedar tahu, paham, dan bisa mengedit, baru sekarang lah saya memiliki waktu untuk menerapkannya dengan membuat sendiri semuanya dari nol. Beruntung saya mendapat mata kuliah pemrograman web yang diampu [Mas Salhazan](http://salhazan.com) dan praktikumnya yang dibimbing oleh para asisten [Lab Sirkel](http://sirkel.informatics.uii.ac.id), meski sebenarnya yang saya perlukan itu adalah tugas proyeknya. Toh kalau tidak dikasih tugas, kapan saya mulai mempelajari dan menerapkannya?
 
-
+<!-- more -->
 
 Salah satu sifat keras kepala saya dalam coding adalah pengennya bikin sendiri dari nol. Pokoknya setiap detil program saya harus paham dan bisa menjiwai alurnya, _in case_ terjadi error dan harus nge-debug. Paham?
 

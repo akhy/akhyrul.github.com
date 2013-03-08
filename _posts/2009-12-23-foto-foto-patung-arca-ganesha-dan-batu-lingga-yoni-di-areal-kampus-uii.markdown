@@ -14,6 +14,7 @@ tags:
 Lanjutan dari [artikel sebelumnya](http://akhyar.web.id/2009/12/12/ditemukan-candi-di-areal-pembangunan-perpustakaan-uii-yogyakarta/) yang kutulis dengan menyadur dari Kompas, menurut kabar terbaru yang [saya baca dari portal FTI-UII](http://fit.uii.ac.id/berita-universitas/penemuan-candi-di-kampus-uii-ditemukan-patung-ganesha.html), ternyata pada penemuan candi di Kampus Terpadu UII, telah ditemukan patung Ganesha dan batu Lingga Yoni. What? Apa itu Ganesha? Apa itu Lingga Yoni? Silakan periksa link berikut ini... 
 
 
+<!-- more -->
 
 
 [http://id.wikipedia.org/wiki/Ganesa](http://id.wikipedia.org/wiki/Ganesa)

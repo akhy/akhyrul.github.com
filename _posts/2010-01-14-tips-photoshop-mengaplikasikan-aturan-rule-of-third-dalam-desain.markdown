@@ -15,7 +15,7 @@ tags:
 Fotografer, pelukis, seniman grafis (kalo musisi saya rasa tidak perlu :D) pasti tau apa itu Rule of Third, salah satu aturan komposisi yang paling banyak digunakan dalam karya grafis. Berikut [definisi rule of third](http://id.wikipedia.org/wiki/Rule_of_thirds) yang saya kutip dari wikipedia indonesia: 
 
 
-
+<!-- more -->
 
 
 > 

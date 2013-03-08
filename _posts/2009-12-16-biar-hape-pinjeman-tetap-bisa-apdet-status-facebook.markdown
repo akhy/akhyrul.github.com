@@ -21,7 +21,7 @@ Pinjem hapenya dong!
 
 Kalo anda perhatikan, seringkali ketika seseorang memperbarui status Facebooknya ntar bakal ditampilin dengan apa dia melakukan apdet di bagian bawah tampilan status tsb. Entah itu [Bleber](http://cutetakayuki.wordpress.com/2009/06/06/fenomena-blackberry/) (baca: BLEk BERi), Mobile Web, Snaptu, dsb.... Pokoknya aplikasi sumber status itu diapdet dah...
 
-
+<!-- more -->
 
 Kadang dongkol juga rasanya meliat yang kyk gitu, apalagi bila tulisannya _alay melambay kayak makan siomay_ (?). Lirik kiri-kanan yang saya punya cuman leptop dengan koneksi T-Flash dan hape seadanya yang cuma bisa diinstall aplikasi java dengan ukuran di bawah 100KB, sangat gak memungkinkan untuk nginstall Snaptu dan aplikasi semacamnya di hape saya tsb. Ya kalo operamini v3 sih masih bisa, tapi berhubung males ngisi pulsa reguler jadinya cuma dipake smsan (itupun kalo ada yg smsin) (haha)
 

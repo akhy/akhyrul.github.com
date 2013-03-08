@@ -16,7 +16,7 @@ tags:
 
 Ternyata cukup lama juga saya vakum dari dunia blog-blogan. Kalau dihitung-hitung persentasi keaktipan saya ngeblog dibandingkan dengan keaktipan saya di dunia internet secara umum, bisa dibilang sangat kecil. Dari SMA aktip dan mulai kecanduan internet sampai sekarang udah 2 tahun mengenyam pendidikan bersistem SKS posting-posting saya masih terbilang sangat sedikit dan juga sangat low-quality _*mojok sambil mengais tanah* _
 
-_<!-- more -->_
+<!-- more -->
 
 Well, ngomong-ngomong soal dunia internet, nama siapa yang anda gunakan sebagai identitas selama berselancar di dunia maya? Nama sendiri? Nama samaran? Nama artis idola? Atau nama tetangga? _*dibekep jemuran tetangga*_
 

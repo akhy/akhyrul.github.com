@@ -28,7 +28,7 @@ Kichise Michiko as **Orihara Maya**
 **Disclaimer:** Entri ini adalah pindahan dari [entri di blog lama saya](http://freakynote.wordpress.com/2009/05/19/review-bloody-monday-buraddi-mandei/). Harap maklum.
 
 
-
+<!-- more -->
 
 
 

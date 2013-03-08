@@ -23,6 +23,7 @@ Sempat kaget saya melihat status facebook [Mas Mecca](http://gardustudio.com) ya
 Sebelumnya, saya kutip dulu dari [berita Tempo](http://www.tempointeraktif.com/hg/nusa/2009/12/12/brk,20091212-213406,id.html) yang saya bicarakan itu. <!-- more -->
 
 
+
 > **TEMPO _Interaktif_**, **Yogyakarta** - Bangunan yang diyakini merupakan struktur candi peninggalan abad IX-X Masehi ditemukan di lahan yang direncanakan akan dibangun gedung perpustakaan di Kampus Terpadu Universitas Islam Indonesia (UII) Yogyakarta di Jalan Kaliurang Kilometer 14,4. Strukutur candi yang ditemukan masih berupa potongan bebatuan di tiga lubang untuk tiang pondasi cakar ayam dari 24 lubang yang ada.
 
 "Kami yakini ini adalah struktur candi peninggalan Hindu Budha," kata Ketua Kelompok Kerja Perlindungan Badan Pelestarian Peninggalan Purbakala (BP3) DIY Indung Panca Putra di lokasi, Sabtu (12/12).

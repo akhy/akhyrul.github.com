@@ -21,6 +21,8 @@ Kami butuh sinyal kuat
 
 Kecewa, itulah perasaan pertama yang terlintas di benak begitu mendapati buruknya sinyal modem HSDPA di kamar kostku. Gimana tidak, sinyal 3G cuma satu bar paling mentok dua, itupun kalo lagi hoki dan gak jarang sinyal 3G-nya hilang kayak bulan ditelan raksasa pas lagi gerhana.Kalau keliatan sinyalnya bisa sampe dapat 4 dari 5 bar, bisa dipastikan cuma dapat sinyal GPRS yang lemoy-nya minta ampun.
 
+<!-- more -->
+
 (lonely) 
 
 Nasi sudah jadi bubur ayam spesial, modem dan kartu broadband-nya udah terlanjur dibeli tanpa survey cermat sebelumnya. Mau diapain juga sinyalnya ya segitu-gitu juga. Nasib anak kost dengan uang bulanan secukupnya, bisa internetan tanpa batas pemakaian dengan biaya sekitar 150rb sebulan juga sudah sangat bersyukur. Daripada disesali, mending dinikmatin aja apa yang ada, bukan begitu _sodara-sodara setanah air yang saya yakin pernah mengalami hal serupa_?
