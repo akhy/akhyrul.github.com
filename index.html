@@ -12,6 +12,10 @@ index: true
           <h3>
           <a href="{{ post.url }}">{{ post.title }}</a>
           </h3>
+
+          <p>
+          {{ post.content | split:'<!-- more -->' | first }}
+          </p>
           <em>{{ post.date | date: "%B %e, %Y" }} | 
             <a href="http://akhyar.net{{ post.url }}#disqus_thread">comments</a>
           </em> 
