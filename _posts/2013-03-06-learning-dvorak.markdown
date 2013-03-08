@@ -18,6 +18,8 @@ tags:
 > Taukah anda kenapa susunan keyboard yang umum kita gunakan urutan abjadnya
 > tidak berurut ABCD? Kenapa sih susunannya QWERTY?
 
+<!-- more -->
+
 Konon, jaman dulu layout Qwerty diciptakan untuk mengatasi masalah seringnya
 mesin ketik macet (*jammed*) akibat menekan dua tombol bersamaan. Layout Qwerty
 menempatkan tombol-tombol yang sering dipencet berurutan (berdasarkan kata-kata
@@ -78,5 +80,3 @@ seharian pake Dvorak tanpa switch back ke Qwerty. Padahal, menurut
 ---
 
 Disclaimer: Artikel ini masih diketik pake Qwerty, sambil sesekali switch ke Dvorak :p
-
-

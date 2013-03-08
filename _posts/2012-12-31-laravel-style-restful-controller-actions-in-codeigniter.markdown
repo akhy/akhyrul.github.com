@@ -25,8 +25,8 @@ This time I will show you [a trick I found](http://www.toddandrae.com/?p=95) and
 
 Consider the following CodeIgniter styled controller actions:
 
-{% highlight html+php %}
-<?php 
+{% highlight php5 %}
+<?php
 class Article extends CI_Controller {
 
 	public function add()
@@ -49,23 +49,23 @@ Laravel's controller has a feature that called RESTful controllers/actions that 
 
 	
 
-{% highlight html+php %}
+{% highlight php %}
 <?php
-	class Article extends Controller {
-	
-		public $resful = true;
-	
-		public function get_add()
-		{
-			// Show the form
-		}
-	
-		public function post_add()
-		{
-			// Process the form inputs
-			// then redirect to success page
-		}
+class Article extends Controller {
+
+	public $resful = true;
+
+	public function get_add()
+	{
+		// Show the form
 	}
+
+	public function post_add()
+	{
+		// Process the form inputs
+		// then redirect to success page
+	}
+}
 ?>
 {% endhighlight %}
 
@@ -78,25 +78,25 @@ Elegant, isn't it? That way we can keep the URL for forms and processing the sam
 
 We can get the same effect in CodeIgniter by using custom router class [as pointed by Todd in his article](http://www.toddandrae.com/?p=95). I just modified the code a little to mimic Laravel more. So we started by a custom class, create a file in 'application/core' named 'MY_Router.php'
 
-{% highlight html+php linenos %}
+{% highlight php linenos %}
 <?php
-	class MY_Router extends CI_Router {
-		function fetch_method()
+class MY_Router extends CI_Router {
+	function fetch_method()
+	{
+		$request = strtolower($_SERVER['REQUEST_METHOD']);
+
+		if ($this->method == $this->fetch_class()) 
 		{
-			$request = strtolower($_SERVER['REQUEST_METHOD']);
-	
-			if ($this->method == $this->fetch_class()) 
-			{
-				$method = $request.'_index';
-			} 
-			else 
-			{
-				$method = $request.'_'.$this->method;
-			}
-	
-			return $method;
+			$method = $request.'_index';
+		} 
+		else 
+		{
+			$method = $request.'_'.$this->method;
 		}
+
+		return $method;
 	}
+}
 ?>
 {% endhighlight %}
 
